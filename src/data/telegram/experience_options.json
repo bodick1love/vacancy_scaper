@@ -1,0 +1,7 @@
+{
+  "No experience": "experience_no",
+  "Less than 1 year": "experience_lt1",
+  "1 to 2 years": "experience_1to2",
+  "2 to 5 years": "experience_2to5",
+  "More than 5 years": "experience_gt5"
+}
